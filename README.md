@@ -1,2 +1,4 @@
 # applied-cryptography
-git repo for cosc 583
+
+Lexy Andershock
+COSC 583: Applied Cryptography
